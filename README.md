@@ -24,7 +24,15 @@ and ```q.paramValues``` will give you a Map of params:
 ```
 
 ## Installation
-TBD
+```groovy
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.relaximus:hql-builder:1.0'
+}
+```
 
 ## Usage
 
