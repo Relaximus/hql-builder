@@ -39,10 +39,9 @@ All predicates are connected with the implicit ```AND``` operation, ```OR``` sho
 
 |Predicate name|Comment|
 |--------------|-----------|
-| *eq()* / *neq()* | Simple equality/not equality. | 
-| *in()* | Value in the list |
-| *like()* / *iLike()* | Text search (with case insensitive option) |
-| *gt()* / *gte()* /  *lt()* / *lte()* | &gt; / 	&ge; / &lt; / &le; |
-| *isNull()* ||
+| `eq` / `neq` | Simple equality/not equality. | 
+| in` | Value in the list |
+| `like` / `iLike` | Text search (with case insensitive option) |
+| `gt` / `gte` /  `lt` / `lte` | &gt; / 	&ge; / &lt; / &le; |
+| `isNull` ||
 
- 
